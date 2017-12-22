@@ -1,0 +1,2 @@
+# ProxyDemo
+通过代理和反射的方法实现Application的多继承
